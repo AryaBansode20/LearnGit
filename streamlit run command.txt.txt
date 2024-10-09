@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Prime\OneDrive\Desktop\HeartDiseasePredictionModel\heart disease prediction.py"
